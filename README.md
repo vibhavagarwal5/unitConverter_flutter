@@ -1,9 +1,13 @@
-# unit_converter
+# unitConverter_flutter
 
-A new Flutter application.
+Unit Conversion app built in Flutter. Taken help from the [Udacity course](https://in.udacity.com/course/build-native-mobile-apps-with-flutter--ud905).
 
-## Getting Started
+### Getting Started
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
-# unitConverter_flutter
+
+### Screenshots:
+
+![alt text](Screenshot_1531828938.png 'HomeScreen')
+![alt text](Screenshot_1531829020.png 'ConversionScreen')
